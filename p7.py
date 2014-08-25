@@ -8,6 +8,7 @@ What is the 10 001st prime number?
 # Code by David Eppstein, UC Irvine, 28 Feb 2002
 # http://code.activestate.com/recipes/117119/
 
+
 def gen_primes():
     '''Yields the sequence of prime numbers via the Sieve of Eratosthenes.'''
     D = {}  # map composite integers to primes witnessing their compositeness
