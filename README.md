@@ -1,4 +1,4 @@
 projecteuler
 ============
 
-My solutions to projecteuler.net problems
+My solutions to projecteuler.net problems.
